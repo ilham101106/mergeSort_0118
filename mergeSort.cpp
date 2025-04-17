@@ -28,3 +28,10 @@ void input() {
     }
 }
 
+void mergeSort(int low, int high) {
+    //step 1
+    if (low >= high ) {
+        return; //step 1.a
+    }
+
+}
